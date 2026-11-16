@@ -13,7 +13,7 @@ The findings include the following:
 
 
 
-The graph 1 «Dynamics of the total number of subscribers across all channels» is represented as a line graph based on subs_total data collected over the period.
+The graph 1 **«Dynamics of the total number of subscribers across all channels»** is represented as a line graph based on subs_total data collected over the period.
 
 
 <img width="1600" height="720" alt="7458aa41-5faa-49c7-a73f-c8a7e8b68a46-1794849855581" src="https://github.com/user-attachments/assets/c8ea4166-2806-4191-8635-0048da04a873" />

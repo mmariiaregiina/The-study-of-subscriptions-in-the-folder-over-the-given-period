@@ -18,3 +18,15 @@ The graph 1 «Dynamics of the total number of subscribers across all channels» 
 
 <img width="1600" height="720" alt="7458aa41-5faa-49c7-a73f-c8a7e8b68a46-1794849855581" src="https://github.com/user-attachments/assets/c8ea4166-2806-4191-8635-0048da04a873" />
 
+The graph 2
+
+<img width="1600" height="720" alt="3a64d7a1-3091-4043-b3ec-dfdd260e82ce-1794850242241" src="https://github.com/user-attachments/assets/14f2c002-7cb2-4536-bf4f-f3b5c3ca39e0" />
+
+
+The graph 3
+<img width="1600" height="720" alt="8067dae2-6cbc-4590-a515-6cbe0d3ed7f2-1794850248662" src="https://github.com/user-attachments/assets/c22948dd-ec9e-467a-984f-28a7106f979f" />
+
+The graph 4
+<img width="1600" height="720" alt="51771fdc-b33b-481e-89fe-31ac15c2c311-1794850257726" src="https://github.com/user-attachments/assets/26280f0a-7301-4ac4-9dad-98998dd7eaea" />
+
+

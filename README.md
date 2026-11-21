@@ -2,7 +2,7 @@ This task involves studying the launch of the "Channels" folder for the period 0
 
 The whole representation of the dashboard is available at the link: [https://datalens.yandex/mz6iinw2440y5?_share_link=public](https://datalens.ru/mz6iinw2440y5-task-1-dashboard?_share_link=org)
 
-The findings include the following: 
+THE FINDINGS INCLUDE THE FOLLOWING: 
 * During the observed period, new subscribers across all acquisition channels most likely came from ad purchases or bot-driven inflation (fake followers), since **Graph 1** shows sharp fluctuations between subscriptions and unsubscriptions, as well as a slight increase over the period. It is assumed that ads were launched during the peaks, so the quality and engagement of the audience are questionable.
 
 * Active users have been subscribing less frequently: according to **Graph 2**, there are only 3 subscriptions per 100 active days, with a downward trend. The decline in the metric means that for every 100 active user days, there are fewer and fewer new subscriptions, which may indicate a decrease in the effectiveness of the sales funnel, audience fatigue with the content.
@@ -34,7 +34,16 @@ The graph shows a stable and predicted trend in subscription share, on avearge t
 
 
 The graph 4 **«Distribution of subscriptions in the folder by platform type»**
-<img width="1600" height="720" alt="51771fdc-b33b-481e-89fe-31ac15c2c311-1794850257726" src="https://github.com/user-attachments/assets/26280f0a-7301-4ac4-9dad-98998dd7eaea" />
+<img width="1600" height="720" alt="e4fffc00-8f1a-43ec-83cb-f73a8f255903-1795258495435" src="https://github.com/user-attachments/assets/370cfbec-b89c-4a76-88b6-9c32d89bffc9" />
 
 The graph shows that iOS holds the leading position, while Web has the lowest share (5%), suggesting that the subscription funnel should be cheked for technical issues. 
 
+THE RECOMMENDATIONS INCLUDE THE FOLLOWING: 
+* Check the advertisint purchases to see whether they are bringing fake-followers.
+  
+* Analyze which content was published on peak days and try to maintain the same content format.
+  
+* Analyze the Web subscription funnel and check for technical issues in the interface during subscription checkout on the platform.
+
+
+  

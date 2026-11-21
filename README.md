@@ -1,4 +1,6 @@
-This task involves studying the launch of the "Channels" folder for the period 06.07.2026 — 24.08.2026 using training data.
+**This task involves studying the launch of the "Channels" folder for the period 06.07.2026 — 24.08.2026 using training data.**
+
+The work was performed using Yandex DataLens platform to calculate and represent the data.
 
 The whole representation of the dashboard is available at the link: [[https://datalens.yandex/mz6iinw2440y5?_share_link=public](https://datalens.ru/mz6iinw2440y5-task-1-dashboard?_share_link=org)](https://datalens.ru/mz6iinw2440y5-task-1-dashboard?_share_link=org)
 

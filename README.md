@@ -4,7 +4,7 @@ The work was performed using Yandex DataLens platform to calculate and represent
 
 The whole representation of the dashboard is available at the link: [[https://datalens.yandex/mz6iinw2440y5?_share_link=public](https://datalens.ru/mz6iinw2440y5-task-1-dashboard?_share_link=org)](https://datalens.ru/mz6iinw2440y5-task-1-dashboard?_share_link=org)
 
-THE FINDINGS INCLUDE THE FOLLOWING: 
+**THE FINDINGS INCLUDE THE FOLLOWING:** 
 * During the observed period, new subscribers across all acquisition channels most likely came from ad purchases or bot-driven inflation (fake followers), since **Graph 1** shows sharp fluctuations between subscriptions and unsubscriptions, as well as a slight increase over the period. It is assumed that ads were launched during the peaks, so the quality and engagement of the audience are questionable.
 
 * Active users have been subscribing less frequently: according to **Graph 2**, there are only 3 subscriptions per 100 active days, with a downward trend. The decline in the metric means that for every 100 active user days, there are fewer and fewer new subscriptions, which may indicate a decrease in the effectiveness of the sales funnel, audience fatigue with the content.
@@ -43,7 +43,7 @@ The graph 4 **«Distribution of subscriptions in the folder by platform type»**
 
 The graph shows that iOS holds the leading position, while Web has the lowest share (5%), suggesting that the subscription funnel should be cheked for technical issues. 
 
-THE RECOMMENDATIONS INCLUDE THE FOLLOWING: 
+**THE RECOMMENDATIONS INCLUDE THE FOLLOWING:** 
 * Check the advertisint purchases to see whether they are bringing fake-followers.
   
 * Analyze which content was published on peak days and try to maintain the same content format.

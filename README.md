@@ -23,21 +23,21 @@ The graph 1 **«Dynamics of the total number of subscribers across all channels�
 Over the period, the indicator moved from 29,156 to 29,303 — a slight net increase of 147 points (about +0.5%). However, the range was wide: the number of subscribers peaked at 32,560 and fell to a low of 26,926, indicating a spread of 5,634 points (roughly 21% of the starting level), which reflected a fluctuating trend of the graph despite the nearly flat change over the period.
 
 
-The graph 2 **«Subscription intensity per 100 active user-days»**
+The graph 2 **«Subscription intensity per 100 active user-days»** was found as the ratio of all subscriptions (subs_total) to all actions (dau) multiplied by 100 days.
 
 <img width="1600" height="720" alt="d7c09fd7-80c9-4126-a611-9ccef35ea716-1795259516177" src="https://github.com/user-attachments/assets/f73bde6e-5f10-467b-a937-919d8e7f5abd" />
 
 The graph shows an average of about 3 subscriptions per 100 active user days, and it has a downward trend, which indicates external or interbnal problems with subscriber acquisition. 
 
 
-The graph 3 **«Subscription share in the folder after the release period, %»**
+The graph 3 **«Subscription share in the folder after the release period, %»** is calculated as subscribers in the folder (subs_folder) divided by all subscribers (subs_total). 
 
 <img width="1600" height="720" alt="146c3e4f-1719-4ac4-8aa1-7f5d634f10a5-1795259526565" src="https://github.com/user-attachments/assets/335e6ff3-badc-4c66-9eb1-107d6e39d724" />
 
 The graph shows a stable and predicted trend in subscription share, on avearge the value is about 25%, and it peaked at 28% (13 August). The peak should be analyzed to boost audience engagement.   
 
 
-The graph 4 **«Distribution of subscriptions in the folder by platform type»**
+The graph 4 **«Distribution of subscriptions in the folder by platform type»** is the ratio of folder-open users (folder_open_users) to all actions (dau) expressed a percentage.
 
 <img width="1600" height="720" alt="1b184d9d-4043-4a57-bdc2-8c9db48bf245-1795259534047" src="https://github.com/user-attachments/assets/f3afbe00-cd76-44c7-b9c4-9b4a83279ff6" />
 
